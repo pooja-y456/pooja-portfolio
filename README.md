@@ -1,4 +1,4 @@
 # pooja-portfolio
-this is my first git repository
+This is my first git repository
 <br>
-Autho-pooja 
+Author-pooja 
